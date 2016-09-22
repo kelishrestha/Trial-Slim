@@ -25,4 +25,12 @@ Run this command to install Eloquent to the application.
 
     composer require illuminate/database "~5.1"
 
+### Installing Flash Messages Package
+
+Install slim flash packages using composer.
+
+    composer require slim/flash
+
+**Note:** Requires Slim 3.0.0 or newer.
+
 That's it! Now go build something cool.
